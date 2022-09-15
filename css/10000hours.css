@@ -196,11 +196,13 @@ input::placeholder {
 }
 .cont-footer{
     text-align: center;
+    margin: 5em;
 }
 .cont-footer img{
     display: block;
     margin: 0 auto;
     padding: 1.5em 0;
+
 }
 small.txt-footer{
     color: #FFFFFF;
@@ -210,3 +212,20 @@ small.txt-footer{
     font-size: 12px;
     line-height: 1.5em;
 }
+/* .cont-modal{
+    background:#FFFFFF;
+    box-shadow: 0 0 20px 0 #000000;
+    backdrop-filter: blur( 13.5px );
+    -webkit-backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width:800px;
+    height: 800px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+} */
